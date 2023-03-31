@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(253, 206, 184);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px; 
+    color: black;
+}
+
+h1 {
+    color: rgb(63, 8, 65); font-size: 50px; 
+    background-color: rgb(226, 133, 198); 
+    text-align: center;
+}
+
+.intro {
+   font-size: 20px; font-family: "Papyrus", 'Lucida Sans', 'Lucida Sans Regular'; 
+   text-align: center; 
+   color: rgb(83, 10, 126);
+   background-color: rgb(8, 241, 241);
+}
+
+em {
+    font-weight: 800;
+}
+
+img {
+    width: 30%;
+    height: auto;
+    display: inline-block;
+}
+
+.home {
+    color: rgb(174, 0, 255); font-size: 25px; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+}
+
+h2 {
+    background-color: rgb(73, 175, 175);
+}
+
+.mini {
+    background-color: rgb(231, 56, 158);
+}
