@@ -37,6 +37,15 @@ h2 {
     background-color: rgb(73, 175, 175);
 }
 
+h3 {
+    background-color: rgb(73, 177, 180);
+}
+
 .mini {
     background-color: rgb(231, 56, 158);
 }
+
+.pic {
+    width: 25%;
+    height: auto;
+    display: inline-block;}
